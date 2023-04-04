@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Nandika Agrawal, B.Tech Computer Science and Engineering student at MNNIT Allahabad.
 
 <!--
 **Nandika-A/Nandika-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
