@@ -23,6 +23,3 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nandika-A&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandika-A&layout=compact&theme=vision-friendly-dark)](https://github.com/Nandika-A/github-readme-stats)
-[![Nandika-A's GitHub | Stats](https://stats.quine.sh/Nandika-A/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Nandika-A)
-[![Nandika-A's GitHub | Topics Over Time](https://stats.quine.sh/Nandika-A/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Nandika-A)
-[![Nandika-A's GitHub | Languages Over Time](https://stats.quine.sh/Nandika-A/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Nandika-A)
