@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nandika-A&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandika-A&layout=compact&theme=vision-friendly-dark)](https://github.com/Nandika-A/github-readme-stats)
+
+---
+### Holopin Badges :
+[![@nandikaa's Holopin board](https://holopin.me/@nandikaa)](https://holopin.io/@jnandikaa)
