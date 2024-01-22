@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ---
 ### Holopin Badges :
-[![@nandikaa's Holopin board](https://holopin.me/@nandikaa)](https://holopin.io/@jnandikaa)
+[![@nandikaa's Holopin board](https://holopin.me/@nandikaa)](https://holopin.io/@nandikaa)
